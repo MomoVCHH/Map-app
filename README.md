@@ -8,4 +8,4 @@ The source of icons is https://icons8.de/icons/set/android
  
 If this app is displayed on the emulator, the user's initial location (Google's headquarters) will be showed on the map. If the user installs this app on a android phone, his correct current location will be displayed on the map.
 
-The link to Google Cloud Plattform:https://cloud.google.com/maps-platform?hl=de
+The link to Google Cloud Platform: https://cloud.google.com/maps-platform?hl=de
