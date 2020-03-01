@@ -52,7 +52,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyAAHrAel390Uw8iy77vqO4cVYDxNeRNP9k"/>
+            android:value="Here you should type your aip key"/>
         <meta-data
             android:name="com.google.android.gms.version"
 
