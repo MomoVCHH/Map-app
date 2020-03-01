@@ -170,7 +170,7 @@ public class MapsActivity extends FragmentActivity implements
         googleURL.append("&type=" + nearbyPlace);
         googleURL.append("&sensor=true");
         //Google Map Places API Key
-        googleURL.append("&key=" + "AIzaSyAAHrAel390Uw8iy77vqO4cVYDxNeRNP9k");
+        googleURL.append("&key=" + "here, you should type your API Key");
         Log.d("MapsActivity", "url = " + googleURL.toString());
 
         return googleURL.toString();
